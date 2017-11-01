@@ -7,7 +7,7 @@
   "dependencies": {
     "express":                 "2.5",
     "jade":                    "*",
-    "jquery":                  "1.7.3",
+    "jquery":                  "1.9.1",
     "socket.io":               "*"
   }
 }
